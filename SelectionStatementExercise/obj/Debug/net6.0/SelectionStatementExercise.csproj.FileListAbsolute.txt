@@ -1,0 +1,15 @@
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.exe
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.deps.json
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.runtimeconfig.json
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.dll
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.pdb
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.csproj.AssemblyReference.cache
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.AssemblyInfoInputs.cache
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.AssemblyInfo.cs
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.csproj.CoreCompileInputs.cache
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.dll
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\refint\SelectionStatementExercise.dll
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.pdb
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.genruntimeconfig.cache
+C:\REPOS\TrueCoders\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\ref\SelectionStatementExercise.dll
